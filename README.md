@@ -24,3 +24,27 @@
 2. *Install Required Packages*
 
    `pip install tk pillow pymysql pandas ttkthemes`
+
+#### ***Usage:***
+
+1. *Run the Application* - `python main.py`
+
+2. *User Login* - *Use the provided login credentials to access the system.*
+
+#### ***Functionality***
+
+***Add***: *Click on the "Add Student" button to add a new student record.*
+
+***View***: *Click on the "View Students" button to see existing student records.*
+
+***Update***: *Select a student record from the list and click on the "Update Student" button to modify details.*
+
+***Delete***: *Select a student record from the list and click on the "Delete Student" button to remove the record.*
+
+#### ***Contributing***
+
+*Contributions are welcome. Feel free to fork the repository and submit pull requests for any improvements or additional features.*
+
+#### ***Contact***
+
+*For any inquiries or issues, please contact jeyasrisenthill@gmail.com.*
